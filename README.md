@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a third year undergraduate in **Department of Computer Science and Engineering at University of Moratuwa**
 
-- 🌱 I’m currently learning **earning deep learning and data science**
+- 🌱 I’m currently learning **machine learning and data science**
 
 - 📫 Reach me at **chethmin@gmail.com**
 
