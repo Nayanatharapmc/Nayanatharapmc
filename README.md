@@ -4,7 +4,7 @@
 
 - Currently I'm studying as a third year undergraduate in **Department of Computer Science and Engineering at University of Moratuwa**
 
-- I’m specializing in **machine learning and data science** stream
+- I’m specializing in **Data Science and Engineering** stream
 
 - Reach me at **chethmi.21@cse.mrt.ac.lk**
 
