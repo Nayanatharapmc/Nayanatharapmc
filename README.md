@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Chethmi Nayanathara</h1>
+<h1 align="center">Hi, I'm Chethmi Nayanathara</h1>
 <h3 align="center">Data Science & Engineering Undergraduate</h3>
 <hr>
 
-- 🔭 I’m currently a third year undergraduate in **Department of Computer Science and Engineering at University of Moratuwa**
+- Currently I'm studying as a third year undergraduate in **Department of Computer Science and Engineering at University of Moratuwa**
 
-- 🌱 I’m currently learning **machine learning and data science**
+- I’m specializing in **machine learning and data science** stream
 
-- 📫 Reach me at **chethmin@gmail.com**
+- Reach me at **chethmi.21@cse.mrt.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
